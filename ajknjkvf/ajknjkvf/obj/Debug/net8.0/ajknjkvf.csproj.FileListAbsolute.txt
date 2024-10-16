@@ -1,0 +1,15 @@
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\bin\Debug\net8.0\ajknjkvf.exe
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\bin\Debug\net8.0\ajknjkvf.deps.json
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\bin\Debug\net8.0\ajknjkvf.runtimeconfig.json
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\bin\Debug\net8.0\ajknjkvf.dll
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\bin\Debug\net8.0\ajknjkvf.pdb
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.AssemblyInfoInputs.cache
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.AssemblyInfo.cs
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.csproj.CoreCompileInputs.cache
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.sourcelink.json
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.dll
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\refint\ajknjkvf.dll
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.pdb
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ajknjkvf.genruntimeconfig.cache
+C:\Users\oured\source\ydf-ndyg-oisngsjfnsjfhn-sjrth\ajknjkvf\ajknjkvf\obj\Debug\net8.0\ref\ajknjkvf.dll
